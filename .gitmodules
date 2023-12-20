@@ -1,0 +1,8 @@
+[submodule "repo/nexus/plugin.video.crunchyroll"]
+	path = repo/nexus/plugin.video.crunchyroll
+	url = https://github.com/smirgol/plugin.video.crunchyroll/
+	branch = nexus-beta-api
+[submodule "repo/matrix/plugin.video.crunchyroll"]
+	path = repo/matrix/plugin.video.crunchyroll
+	url = https://github.com/smirgol/plugin.video.crunchyroll/
+	branch = matrix-beta-api
